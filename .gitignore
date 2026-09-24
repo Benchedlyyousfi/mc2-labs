@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+server/node_modules/
+
+# Secrets - NEVER upload
+.env
+.env.*
+server/.env
+server/.env.*
+
+# Production build
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Windows / Editor
+.DS_Store
+Thumbs.db
+.vscode/
