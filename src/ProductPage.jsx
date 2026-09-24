@@ -32,7 +32,7 @@ function ProductPage() {
         <div className="heroButtons">
           <a
             className="primaryButton"
-            href="/downloads/MC2_Cleaner.exe"
+            href="https://github.com/Benchedlyyousfi/mc2-labs/releases/download/v1.1.0/MC2_Cleaner.exe"
             download="MC2_Cleaner.exe"
           >
             ↓ Download for Windows
